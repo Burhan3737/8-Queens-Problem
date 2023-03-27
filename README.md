@@ -12,5 +12,5 @@
   ### 4-Mutation
   -Mutation is applied on the new generation by choosing one single random gene to be mutated in the 2 new individuals.
   
- Steps 2 to 4 are repeated until the required fitness is achieved.
+Steps 2 to 4 are repeated until the required fitness is achieved.
   
